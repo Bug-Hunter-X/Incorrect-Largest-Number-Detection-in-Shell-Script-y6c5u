@@ -1,0 +1,1 @@
+This repository contains a shell script that aims to identify the largest number within a text file. However, it suffers from a subtle bug: it fails to handle non-numeric input correctly.  The `bug.sh` file demonstrates this error. The solution, provided in `bugSolution.sh`, addresses this issue by robustly checking for numeric input before comparison.
